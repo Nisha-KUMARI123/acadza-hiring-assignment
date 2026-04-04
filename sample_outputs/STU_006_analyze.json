@@ -1,0 +1,46 @@
+{
+  "student_id": "STU_006",
+  "total_attempts": 7,
+  "completed_attempts": 7,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 59.0,
+  "trend": "declining",
+  "skip_rate_pct": 17.1,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Kinematics": 86.5,
+    "Heat Transfer": 81.5,
+    "Organic Chemistry": 25.4,
+    "Physical Chemistry": 25.4,
+    "Electrostatics": 86.8,
+    "Rotational Mechanics": 77.0
+  },
+  "subject_averages": {
+    "Physics": 84.2,
+    "Chemistry": 25.4
+  },
+  "strengths": [
+    "Electrostatics",
+    "Kinematics",
+    "Heat Transfer",
+    "Rotational Mechanics"
+  ],
+  "weaknesses": [
+    "Organic Chemistry",
+    "Physical Chemistry"
+  ],
+  "needs_practice": [],
+  "patterns": [
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    86.0,
+    57.1,
+    77.0,
+    9.0,
+    77.0,
+    10.0,
+    96.6
+  ]
+}

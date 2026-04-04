@@ -1,0 +1,256 @@
+{
+  "student_id": "STU_007",
+  "total_steps": 9,
+  "summary": "Focus areas: Electrostatics, Rotational Mechanics, Heat Transfer",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "practiceAssignment",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "2545a102186d0f99f7c9e215",
+        "80270815fe85df2fbdaa35ad",
+        "511210d472406eb1ff00d008",
+        "71ce761497aa7947d9815df1",
+        "99b364f73bb387d080589ab0"
+      ],
+      "reason": "Average score in Electrostatics is only 48.3% \u2014 targeted practice needed.",
+      "message": "Time to practice Electrostatics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 2,
+      "dost_type": "clickingPower",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "5c54898f425d8d9f2b87f6e3",
+        "7a7da82b31571c2e99a2e0b6",
+        "b13d72aca08ef7bcd5c29722",
+        "4d184474a7cf48dce22c8bef",
+        "add49c5f7794e1dd4c786a2e"
+      ],
+      "reason": "Average score in Electrostatics is only 48.3% \u2014 targeted practice needed.",
+      "message": "Speed drill on Electrostatics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "bd39f917c10696489a30fd54",
+        "590d273e34f98dff7e4c6428",
+        "669cbee3772a077021721a27",
+        "df672eb231645ae36f2e1e4d",
+        "81d06bd2aa399dac946dc59c"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 48.3% \u2014 targeted practice needed.",
+      "message": "Time to practice Rotational Mechanics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "4a37935b4cd4cd5f55f945ae",
+        "a4e2fe981b29ee11b922ce1e",
+        "f9f02ce76b119ff903d48bcb",
+        "2ce8343cbab46c1114afe44a",
+        "c9a7a5236bb4734865425fee"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 48.3% \u2014 targeted practice needed.",
+      "message": "Speed drill on Rotational Mechanics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "786d3748421599e3e9c8fe21",
+        "6e8b5359309cc6273931bdb2",
+        "0e952eb9d8e96cf37cb990c8",
+        "97706ca828bca0385813dbad",
+        "146afca5eab8f67897996faf"
+      ],
+      "reason": "Average score in Heat Transfer is only 51.7% \u2014 targeted practice needed.",
+      "message": "Time to practice Heat Transfer with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "af9f0ba3d90f871f5c471360",
+        "4f7fd633dbdde131ca3766e4",
+        "fa6bad17408d946a7c7fa8ff",
+        "b3bb1c863e2601a7462667a4",
+        "266f6a90663f76c7a9ceb98b"
+      ],
+      "reason": "Average score in Heat Transfer is only 51.7% \u2014 targeted practice needed.",
+      "message": "Speed drill on Heat Transfer! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "pickingPower",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "3209eb83425ded302b2ac09d",
+        "a880627df7ffe0297c79bfbd",
+        "03cd10296eab17eafbe3370a",
+        "df3dbe4d58fed8a728e7eca0",
+        "575ec87a171ac826a6fce484"
+      ],
+      "reason": "Thermodynamics is at 56.7% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Thermodynamics \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 8,
+      "dost_type": "pickingPower",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "0020d33eb7986102163324c5",
+        "1ce27d9c44a2f1c82cd44f6f",
+        "70b2f4fb5cff45671d08d766",
+        "bd49440204fd424ded5edecb",
+        "75d3bed355ca5ebaabdda76c"
+      ],
+      "reason": "Algebra is at 68.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Algebra \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 9,
+      "dost_type": "speedRace",
+      "chapter": "Chemical Bonding",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "49b04310c296b6d455786351",
+        "53dfe5cb04ff3de128a07a3d",
+        "f4507898dcbe86e9c30b993f",
+        "4bc794e2cb0754e554fb17f7",
+        "d884580ae414a19fb2a7525d"
+      ],
+      "reason": "Chemical Bonding is a strong area (94.4%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Chemical Bonding \u2014 race against the bot and push your speed!"
+    }
+  ]
+}

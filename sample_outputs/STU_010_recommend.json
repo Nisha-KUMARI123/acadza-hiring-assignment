@@ -1,0 +1,132 @@
+{
+  "student_id": "STU_010",
+  "total_steps": 4,
+  "summary": "Focus areas: General improvement",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "pickingPower",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "bd39f917c10696489a30fd54",
+        "590d273e34f98dff7e4c6428",
+        "669cbee3772a077021721a27",
+        "df672eb231645ae36f2e1e4d",
+        "81d06bd2aa399dac946dc59c"
+      ],
+      "reason": "Rotational Mechanics is at 65.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Rotational Mechanics \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 2,
+      "dost_type": "pickingPower",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "53964b50af03b971722f244f",
+        "2545a102186d0f99f7c9e215",
+        "80270815fe85df2fbdaa35ad",
+        "511210d472406eb1ff00d008",
+        "71ce761497aa7947d9815df1"
+      ],
+      "reason": "Electrostatics is at 65.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Electrostatics \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 3,
+      "dost_type": "speedRace",
+      "chapter": "Calculus",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "3e5233f726daca34a615a238",
+        "17490a39ef0a6668f40c1851",
+        "4eb587f51a244fdc7e56b183"
+      ],
+      "reason": "Calculus is a strong area (97.1%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Calculus \u2014 race against the bot and push your speed!"
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceTest",
+      "chapter": "Mixed",
+      "subject": "Chemistry",
+      "parameters": {
+        "description": "Full timed mock test simulating exam conditions",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "duration_minutes": {
+            "type": "integer",
+            "default": 60
+          },
+          "paperPattern": {
+            "type": "string",
+            "options": [
+              "Mains",
+              "Advanced"
+            ],
+            "default": "Mains"
+          }
+        }
+      },
+      "question_ids": [
+        "d3b6e9e8325916a427bc1985",
+        "876ec085d329a388ecf7aee0",
+        "37da0583c701f4b275f2a11b",
+        "3f485a27b79dab89e3f12f63",
+        "8c037ce716e36fc9a5138f96",
+        "cdfc016b0a60077b943c9521",
+        "be60cb481fe9f65bae8524e9",
+        "a10443b2bc3a9a45dfa5b75c",
+        "49b04310c296b6d455786351",
+        "53dfe5cb04ff3de128a07a3d",
+        "1ced5dfcbc3f75e2190a832a",
+        "b76aab96f03be771ac3c890b",
+        "d331045abe82ba53cce8cfd5",
+        "f4507898dcbe86e9c30b993f",
+        "6455b37da3fff65d07145414",
+        "5a3bfd9d030c411685984196",
+        "158c4c1ca71f8b0a998f3749",
+        "a2350266d36d240ea1221582",
+        "4bc794e2cb0754e554fb17f7",
+        "d884580ae414a19fb2a7525d",
+        "8b4afeeb9f35284682200c61",
+        "648a22cca8e0d3d443339bd8",
+        "dcf0cd5b6588e4179fdf128c",
+        "81432bd71cdf7f92c143e556",
+        "aa98c8ebed550478265c332f"
+      ],
+      "reason": "Overall score is 87.7% \u2014 time to simulate exam conditions and test Chemistry under pressure.",
+      "message": "Full mock test in Chemistry \u2014 exam simulation mode. Give it your best!"
+    }
+  ]
+}

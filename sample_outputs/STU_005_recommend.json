@@ -1,0 +1,159 @@
+{
+  "student_id": "STU_005",
+  "total_steps": 8,
+  "summary": "Focus areas: Probability, Rotational Mechanics, Algebra",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "formula",
+      "chapter": "Probability",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "f78db11fb3f248e227f291a0",
+        "c0190490976a08431eb448b7",
+        "2e3e9ef7748bc5aaef02f3bf"
+      ],
+      "reason": "Average score in Probability is only 4.0% \u2014 needs foundational work.",
+      "message": "Quick formula revision for Probability! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 2,
+      "dost_type": "concept",
+      "chapter": "Probability",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [],
+      "reason": "Average score in Probability is only 4.0% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Probability \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 3,
+      "dost_type": "formula",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "bd39f917c10696489a30fd54",
+        "81d06bd2aa399dac946dc59c",
+        "4a37935b4cd4cd5f55f945ae",
+        "a4e2fe981b29ee11b922ce1e",
+        "c9a7a5236bb4734865425fee"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 20.0% \u2014 needs foundational work.",
+      "message": "Quick formula revision for Rotational Mechanics! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [],
+      "reason": "Average score in Rotational Mechanics is only 20.0% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Rotational Mechanics \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "70b2f4fb5cff45671d08d766",
+        "bd49440204fd424ded5edecb",
+        "75d3bed355ca5ebaabdda76c",
+        "cf84d09eca13bd8a8838ce76",
+        "b43c3a29ecd775fc2a6dda75"
+      ],
+      "reason": "Average score in Algebra is only 31.0% \u2014 targeted practice needed.",
+      "message": "Quick formula revision for Algebra! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "c29fe01a1a1c36e47214f0f1",
+        "e831228e0f401c84ac0ffdc2",
+        "728da23ddbb6ab095be4e176",
+        "5e7143c50f200529df4648ed"
+      ],
+      "reason": "Average score in Algebra is only 31.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Algebra! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "clickingPower",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "786d3748421599e3e9c8fe21",
+        "6e8b5359309cc6273931bdb2",
+        "0e952eb9d8e96cf37cb990c8",
+        "97706ca828bca0385813dbad",
+        "146afca5eab8f67897996faf"
+      ],
+      "reason": "Heat Transfer is at 63.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "Speed drill on Heat Transfer! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 8,
+      "dost_type": "clickingPower",
+      "chapter": "Calculus",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "3e5233f726daca34a615a238",
+        "5cc15a45451d99e95346080e",
+        "8da85281cca1885e2f6c5f34",
+        "17490a39ef0a6668f40c1851",
+        "e139096a6698ae384583036b"
+      ],
+      "reason": "Calculus is at 58.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "Speed drill on Calculus! 10 rapid questions \u2014 train your instincts."
+    }
+  ]
+}

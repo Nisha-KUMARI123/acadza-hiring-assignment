@@ -1,0 +1,55 @@
+{
+  "student_id": "STU_003",
+  "total_attempts": 6,
+  "completed_attempts": 6,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 49.7,
+  "trend": "improving",
+  "skip_rate_pct": 34.4,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Rotational Mechanics": 40.8,
+    "Kinematics": 40.9,
+    "Coordinate Geometry": 43.3,
+    "Algebra": 43.3,
+    "Electrostatics": 42.1,
+    "Organic Chemistry": 92.8,
+    "Chemical Bonding": 92.8,
+    "Calculus": 37.0,
+    "Probability": 37.0,
+    "Optics": 43.3
+  },
+  "subject_averages": {
+    "Physics": 41.7,
+    "Mathematics": 40.1,
+    "Chemistry": 92.8
+  },
+  "strengths": [
+    "Organic Chemistry",
+    "Chemical Bonding"
+  ],
+  "weaknesses": [
+    "Calculus",
+    "Probability",
+    "Rotational Mechanics",
+    "Kinematics",
+    "Electrostatics",
+    "Coordinate Geometry",
+    "Algebra",
+    "Optics"
+  ],
+  "needs_practice": [],
+  "patterns": [
+    "High skip rate \u2014 34.4% of questions skipped on average",
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    40.8,
+    43.3,
+    41.0,
+    92.8,
+    37.0,
+    43.3
+  ]
+}

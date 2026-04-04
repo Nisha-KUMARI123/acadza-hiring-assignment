@@ -1,0 +1,55 @@
+{
+  "student_id": "STU_010",
+  "total_attempts": 7,
+  "completed_attempts": 7,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 87.7,
+  "trend": "declining",
+  "skip_rate_pct": 0.0,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Optics": 80.8,
+    "Heat Transfer": 80.8,
+    "Chemical Bonding": 97.0,
+    "Organic Chemistry": 97.0,
+    "Probability": 96.0,
+    "Coordinate Geometry": 96.5,
+    "Rotational Mechanics": 65.0,
+    "Electrostatics": 65.0,
+    "Physical Chemistry": 97.0,
+    "Calculus": 97.1
+  },
+  "subject_averages": {
+    "Physics": 75.6,
+    "Chemistry": 97.0,
+    "Mathematics": 96.5
+  },
+  "strengths": [
+    "Calculus",
+    "Chemical Bonding",
+    "Organic Chemistry",
+    "Physical Chemistry",
+    "Coordinate Geometry",
+    "Probability",
+    "Optics",
+    "Heat Transfer"
+  ],
+  "weaknesses": [],
+  "needs_practice": [
+    "Rotational Mechanics",
+    "Electrostatics"
+  ],
+  "patterns": [
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    85.0,
+    97.0,
+    96.0,
+    65.0,
+    97.0,
+    76.7,
+    97.1
+  ]
+}

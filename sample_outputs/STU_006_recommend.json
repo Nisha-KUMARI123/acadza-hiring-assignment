@@ -1,0 +1,192 @@
+{
+  "student_id": "STU_006",
+  "total_steps": 6,
+  "summary": "Focus areas: Organic Chemistry, Physical Chemistry",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [
+        "876ec085d329a388ecf7aee0",
+        "3f485a27b79dab89e3f12f63",
+        "cdfc016b0a60077b943c9521",
+        "be60cb481fe9f65bae8524e9",
+        "b76aab96f03be771ac3c890b"
+      ],
+      "reason": "Average score in Organic Chemistry is only 25.4% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Organic Chemistry \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "e06961751b70528cbcc60229"
+      ],
+      "reason": "Average score in Organic Chemistry is only 25.4% \u2014 needs foundational work.",
+      "message": "Time to practice Organic Chemistry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 3,
+      "dost_type": "concept",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [],
+      "reason": "Average score in Physical Chemistry is only 25.4% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Physical Chemistry \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceAssignment",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [],
+      "reason": "Average score in Physical Chemistry is only 25.4% \u2014 needs foundational work.",
+      "message": "Time to practice Physical Chemistry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 5,
+      "dost_type": "speedRace",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "53964b50af03b971722f244f",
+        "80270815fe85df2fbdaa35ad",
+        "511210d472406eb1ff00d008",
+        "71ce761497aa7947d9815df1",
+        "ad303877ebce4b0f39d234b9"
+      ],
+      "reason": "Electrostatics is a strong area (86.8%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Electrostatics \u2014 race against the bot and push your speed!"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceTest",
+      "chapter": "Mixed",
+      "subject": "Physics",
+      "parameters": {
+        "description": "Full timed mock test simulating exam conditions",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "duration_minutes": {
+            "type": "integer",
+            "default": 60
+          },
+          "paperPattern": {
+            "type": "string",
+            "options": [
+              "Mains",
+              "Advanced"
+            ],
+            "default": "Mains"
+          }
+        }
+      },
+      "question_ids": [
+        "99ed5ebe1bd812cb504e1427",
+        "bd39f917c10696489a30fd54",
+        "786d3748421599e3e9c8fe21",
+        "93ccb49192be8f6688437717",
+        "590d273e34f98dff7e4c6428",
+        "3e3e04d42f8ac2acaf127972",
+        "669cbee3772a077021721a27",
+        "931a4c4555e1db7e9e779f6b",
+        "6e8b5359309cc6273931bdb2",
+        "2c1d0e2adcd93c0a5eb2d37d",
+        "e2a8a3c0ed16bfe16849ef30",
+        "b673bd4755d05ad7853c1f76",
+        "9ef4e863a5e850a965cda2c3",
+        "e5e2ab29955b73647f0bbe42",
+        "099f4efbacea67c7d1afcc4f",
+        "df672eb231645ae36f2e1e4d",
+        "0e952eb9d8e96cf37cb990c8",
+        "2545a102186d0f99f7c9e215",
+        "81d06bd2aa399dac946dc59c",
+        "3209eb83425ded302b2ac09d",
+        "35c47009edc77eb48631d076",
+        "cd56481fb339258e4d27eb0d",
+        "582b82b51c97d2306f247e00",
+        "2b73a41ba5ef542e196161a9",
+        "e01fcd3fe22a4248ac9ed336"
+      ],
+      "reason": "Overall score is 59.0% \u2014 time to simulate exam conditions and test Physics under pressure.",
+      "message": "Full mock test in Physics \u2014 exam simulation mode. Give it your best!"
+    }
+  ]
+}

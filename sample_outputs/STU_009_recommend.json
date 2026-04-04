@@ -1,0 +1,237 @@
+{
+  "student_id": "STU_009",
+  "total_steps": 8,
+  "summary": "Focus areas: Physical Chemistry, Organic Chemistry, Optics",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "practiceAssignment",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "876ec085d329a388ecf7aee0",
+        "3f485a27b79dab89e3f12f63",
+        "cdfc016b0a60077b943c9521",
+        "be60cb481fe9f65bae8524e9",
+        "b76aab96f03be771ac3c890b"
+      ],
+      "reason": "Average score in Physical Chemistry is only 35.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Physical Chemistry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 2,
+      "dost_type": "clickingPower",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "a2350266d36d240ea1221582",
+        "dcf0cd5b6588e4179fdf128c",
+        "81432bd71cdf7f92c143e556",
+        "aa98c8ebed550478265c332f",
+        "adb08792ca25fab6856f6778"
+      ],
+      "reason": "Average score in Physical Chemistry is only 35.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Physical Chemistry! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "ad4afb65c07746053b1c8113",
+        "cfe11a3885ccb28c7cbbff04",
+        "926eff57d4585ae27cc4306d",
+        "e06961751b70528cbcc60229",
+        "132f40ddb1d7fcb3d48f729d"
+      ],
+      "reason": "Average score in Organic Chemistry is only 35.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Organic Chemistry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "dcecda0c30212b39929ecc0f",
+        "c38f4609d384d33933f6686b",
+        "842c9779e44501bafe8e45ed",
+        "22af0d5d513a66d899731cf4",
+        "26e6dfb1529c40566171e1b6"
+      ],
+      "reason": "Average score in Organic Chemistry is only 35.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Organic Chemistry! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "chapter": "Optics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "93ccb49192be8f6688437717",
+        "e2a8a3c0ed16bfe16849ef30",
+        "099f4efbacea67c7d1afcc4f",
+        "cd56481fb339258e4d27eb0d",
+        "e01fcd3fe22a4248ac9ed336"
+      ],
+      "reason": "Average score in Optics is only 40.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Optics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Optics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "7cee9d9136682575250def91",
+        "e5901a19bbd47d5552c7f47e",
+        "24a2eeb454d134955a7b9286",
+        "f78e2978aa2447c462ddaed1",
+        "a3176f812815a064c2957cac"
+      ],
+      "reason": "Average score in Optics is only 40.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Optics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "pickingPower",
+      "chapter": "Calculus",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "3e5233f726daca34a615a238",
+        "5cc15a45451d99e95346080e",
+        "8da85281cca1885e2f6c5f34",
+        "17490a39ef0a6668f40c1851",
+        "e139096a6698ae384583036b"
+      ],
+      "reason": "Calculus is at 66.2% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Calculus \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 8,
+      "dost_type": "speedRace",
+      "chapter": "Probability",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "9bd07633b7e681634ff5511b",
+        "ae7dc1cac13ee17c1c169ec9",
+        "81b7206f2e1bdb1812926337",
+        "ea3e59c23caf1264044e9ce6",
+        "6fede207861541b1419a213d"
+      ],
+      "reason": "Probability is a strong area (87.3%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Probability \u2014 race against the bot and push your speed!"
+    }
+  ]
+}

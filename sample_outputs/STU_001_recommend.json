@@ -1,0 +1,149 @@
+{
+  "student_id": "STU_001",
+  "total_steps": 7,
+  "summary": "Focus areas: Thermodynamics, Kinematics, Organic Chemistry",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "formula",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "df3dbe4d58fed8a728e7eca0"
+      ],
+      "reason": "Average score in Thermodynamics is only 25.0% \u2014 needs foundational work.",
+      "message": "Quick formula revision for Thermodynamics! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 2,
+      "dost_type": "concept",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [],
+      "reason": "Average score in Thermodynamics is only 25.0% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Thermodynamics \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 3,
+      "dost_type": "formula",
+      "chapter": "Kinematics",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "99ed5ebe1bd812cb504e1427",
+        "9ef4e863a5e850a965cda2c3",
+        "2b73a41ba5ef542e196161a9",
+        "4f309ffea518f32cf2144927",
+        "310275dff6c15c0c8e9df469"
+      ],
+      "reason": "Average score in Kinematics is only 40.6% \u2014 targeted practice needed.",
+      "message": "Quick formula revision for Kinematics! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "chapter": "Kinematics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "bda4782790966c917fc37f20",
+        "97b7684319e1b429ad564b85",
+        "5334768b8c2bce779212cccf",
+        "c7e8a908b713e95c939b774f",
+        "de23f0749d0b7d52b20cf1cb"
+      ],
+      "reason": "Average score in Kinematics is only 40.6% \u2014 targeted practice needed.",
+      "message": "Speed drill on Kinematics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Formula revision sheet for specified chapters",
+        "params": {}
+      },
+      "question_ids": [
+        "876ec085d329a388ecf7aee0",
+        "3f485a27b79dab89e3f12f63",
+        "cdfc016b0a60077b943c9521",
+        "be60cb481fe9f65bae8524e9",
+        "b76aab96f03be771ac3c890b"
+      ],
+      "reason": "Average score in Organic Chemistry is only 40.8% \u2014 targeted practice needed.",
+      "message": "Quick formula revision for Organic Chemistry! Even 10 minutes here will pay off in the test."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Organic Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "a2350266d36d240ea1221582",
+        "dcf0cd5b6588e4179fdf128c",
+        "81432bd71cdf7f92c143e556",
+        "aa98c8ebed550478265c332f",
+        "adb08792ca25fab6856f6778"
+      ],
+      "reason": "Average score in Organic Chemistry is only 40.8% \u2014 targeted practice needed.",
+      "message": "Speed drill on Organic Chemistry! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "speedRace",
+      "chapter": "Optics",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "93ccb49192be8f6688437717",
+        "2c1d0e2adcd93c0a5eb2d37d",
+        "b673bd4755d05ad7853c1f76",
+        "e5e2ab29955b73647f0bbe42",
+        "35c47009edc77eb48631d076"
+      ],
+      "reason": "Optics is a strong area (85.7%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Optics \u2014 race against the bot and push your speed!"
+    }
+  ]
+}

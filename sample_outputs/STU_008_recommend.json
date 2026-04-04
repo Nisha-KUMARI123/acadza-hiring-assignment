@@ -1,0 +1,250 @@
+{
+  "student_id": "STU_008",
+  "total_steps": 9,
+  "summary": "Focus areas: Chemical Bonding, Rotational Mechanics, Coordinate Geometry",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "chapter": "Chemical Bonding",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [
+        "37da0583c701f4b275f2a11b",
+        "1ced5dfcbc3f75e2190a832a",
+        "b76aab96f03be771ac3c890b",
+        "d331045abe82ba53cce8cfd5",
+        "5a3bfd9d030c411685984196"
+      ],
+      "reason": "Average score in Chemical Bonding is only 10.0% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Chemical Bonding \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "chapter": "Chemical Bonding",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "df5543cacd78ca9e44d9a666",
+        "a006c3ab85878fab5fd6dbbc",
+        "7cb557ab0b46f95f121770f0",
+        "bf72e9bd849004b9f0ff90d9"
+      ],
+      "reason": "Average score in Chemical Bonding is only 10.0% \u2014 needs foundational work.",
+      "message": "Time to practice Chemical Bonding with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "bd39f917c10696489a30fd54",
+        "590d273e34f98dff7e4c6428",
+        "669cbee3772a077021721a27",
+        "df672eb231645ae36f2e1e4d",
+        "81d06bd2aa399dac946dc59c"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 39.5% \u2014 targeted practice needed.",
+      "message": "Time to practice Rotational Mechanics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "4a37935b4cd4cd5f55f945ae",
+        "a4e2fe981b29ee11b922ce1e",
+        "f9f02ce76b119ff903d48bcb",
+        "2ce8343cbab46c1114afe44a",
+        "c9a7a5236bb4734865425fee"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 39.5% \u2014 targeted practice needed.",
+      "message": "Speed drill on Rotational Mechanics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "chapter": "Coordinate Geometry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "0c50b7a2c6f49ada33214516",
+        "97529ae140f13c12dc5eb9a6",
+        "b9951981f51909f242884888",
+        "9c12ba2e9651c69c3bf2e641",
+        "a8b4fff5796030e36dd1ab60"
+      ],
+      "reason": "Average score in Coordinate Geometry is only 40.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Coordinate Geometry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Coordinate Geometry",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "6ab2480ac5c539a18d2f7be9",
+        "9db20c491b10b3907dcacccd",
+        "c62af5f391c21abdd370c191",
+        "d1446ade4a52fa5a10e8655f",
+        "97818c0874ac42c7d74d9ae4"
+      ],
+      "reason": "Average score in Coordinate Geometry is only 40.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Coordinate Geometry! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "pickingPower",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "786d3748421599e3e9c8fe21",
+        "6e8b5359309cc6273931bdb2",
+        "0e952eb9d8e96cf37cb990c8",
+        "97706ca828bca0385813dbad",
+        "146afca5eab8f67897996faf"
+      ],
+      "reason": "Heat Transfer is at 68.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Heat Transfer \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 8,
+      "dost_type": "pickingPower",
+      "chapter": "Laws of Motion",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "99ed5ebe1bd812cb504e1427",
+        "3e3e04d42f8ac2acaf127972",
+        "931a4c4555e1db7e9e779f6b",
+        "9ef4e863a5e850a965cda2c3",
+        "582b82b51c97d2306f247e00"
+      ],
+      "reason": "Laws of Motion is at 63.2% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Laws of Motion \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 9,
+      "dost_type": "speedRace",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "3209eb83425ded302b2ac09d",
+        "a880627df7ffe0297c79bfbd",
+        "03cd10296eab17eafbe3370a",
+        "575ec87a171ac826a6fce484",
+        "c80621db212f19d54dbcecc2"
+      ],
+      "reason": "Thermodynamics is a strong area (77.6%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Thermodynamics \u2014 race against the bot and push your speed!"
+    }
+  ]
+}

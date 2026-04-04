@@ -1,0 +1,249 @@
+{
+  "student_id": "STU_004",
+  "total_steps": 9,
+  "summary": "Focus areas: Electrostatics, Algebra, Thermodynamics",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "practiceAssignment",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "2545a102186d0f99f7c9e215",
+        "80270815fe85df2fbdaa35ad",
+        "511210d472406eb1ff00d008",
+        "71ce761497aa7947d9815df1",
+        "99b364f73bb387d080589ab0"
+      ],
+      "reason": "Average score in Electrostatics is only 33.5% \u2014 targeted practice needed.",
+      "message": "Time to practice Electrostatics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 2,
+      "dost_type": "clickingPower",
+      "chapter": "Electrostatics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "5c54898f425d8d9f2b87f6e3",
+        "7a7da82b31571c2e99a2e0b6",
+        "b13d72aca08ef7bcd5c29722",
+        "4d184474a7cf48dce22c8bef",
+        "add49c5f7794e1dd4c786a2e"
+      ],
+      "reason": "Average score in Electrostatics is only 33.5% \u2014 targeted practice needed.",
+      "message": "Speed drill on Electrostatics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "70b2f4fb5cff45671d08d766",
+        "bd49440204fd424ded5edecb",
+        "75d3bed355ca5ebaabdda76c",
+        "cf84d09eca13bd8a8838ce76",
+        "b43c3a29ecd775fc2a6dda75"
+      ],
+      "reason": "Average score in Algebra is only 38.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Algebra with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [
+        "c29fe01a1a1c36e47214f0f1",
+        "e831228e0f401c84ac0ffdc2",
+        "728da23ddbb6ab095be4e176",
+        "5e7143c50f200529df4648ed"
+      ],
+      "reason": "Average score in Algebra is only 38.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Algebra! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "a880627df7ffe0297c79bfbd",
+        "df3dbe4d58fed8a728e7eca0",
+        "575ec87a171ac826a6fce484",
+        "c80621db212f19d54dbcecc2",
+        "69b1a83bdceca5ffb82d2d59"
+      ],
+      "reason": "Average score in Thermodynamics is only 48.0% \u2014 targeted practice needed.",
+      "message": "Time to practice Thermodynamics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 6,
+      "dost_type": "clickingPower",
+      "chapter": "Thermodynamics",
+      "subject": "General",
+      "parameters": {
+        "description": "Speed drill \u2014 10 rapid questions, focus on response time",
+        "params": {
+          "total_questions": {
+            "type": "integer",
+            "default": 10
+          }
+        }
+      },
+      "question_ids": [],
+      "reason": "Average score in Thermodynamics is only 48.0% \u2014 targeted practice needed.",
+      "message": "Speed drill on Thermodynamics! 10 rapid questions \u2014 train your instincts."
+    },
+    {
+      "step": 7,
+      "dost_type": "pickingPower",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "786d3748421599e3e9c8fe21",
+        "6e8b5359309cc6273931bdb2",
+        "0e952eb9d8e96cf37cb990c8",
+        "97706ca828bca0385813dbad",
+        "146afca5eab8f67897996faf"
+      ],
+      "reason": "Heat Transfer is at 57.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Heat Transfer \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 8,
+      "dost_type": "pickingPower",
+      "chapter": "Laws of Motion",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "99ed5ebe1bd812cb504e1427",
+        "3e3e04d42f8ac2acaf127972",
+        "931a4c4555e1db7e9e779f6b",
+        "9ef4e863a5e850a965cda2c3",
+        "582b82b51c97d2306f247e00"
+      ],
+      "reason": "Laws of Motion is at 57.0% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Laws of Motion \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 9,
+      "dost_type": "speedRace",
+      "chapter": "Optics",
+      "subject": "General",
+      "parameters": {
+        "description": "Competitive timed race against bot",
+        "params": {
+          "rank": {
+            "type": "integer",
+            "default": 100
+          },
+          "opponent_type": {
+            "type": "string",
+            "default": "bot"
+          }
+        }
+      },
+      "question_ids": [
+        "93ccb49192be8f6688437717",
+        "2c1d0e2adcd93c0a5eb2d37d",
+        "b673bd4755d05ad7853c1f76",
+        "e5e2ab29955b73647f0bbe42",
+        "35c47009edc77eb48631d076"
+      ],
+      "reason": "Optics is a strong area (95.0%) \u2014 keep the edge sharp with a speed race!",
+      "message": "You're doing well in Optics \u2014 race against the bot and push your speed!"
+    }
+  ]
+}

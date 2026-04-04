@@ -1,0 +1,199 @@
+{
+  "student_id": "STU_002",
+  "total_steps": 8,
+  "summary": "Focus areas: Heat Transfer, Rotational Mechanics, Physical Chemistry",
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [
+        "6e8b5359309cc6273931bdb2",
+        "97706ca828bca0385813dbad",
+        "af9f0ba3d90f871f5c471360",
+        "4f7fd633dbdde131ca3766e4",
+        "fa6bad17408d946a7c7fa8ff"
+      ],
+      "reason": "Average score in Heat Transfer is only 12.5% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Heat Transfer \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "chapter": "Heat Transfer",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "791e8b2e376bd54661b85a99"
+      ],
+      "reason": "Average score in Heat Transfer is only 12.5% \u2014 needs foundational work.",
+      "message": "Time to practice Heat Transfer with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 3,
+      "dost_type": "concept",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [
+        "bd39f917c10696489a30fd54",
+        "81d06bd2aa399dac946dc59c",
+        "4a37935b4cd4cd5f55f945ae",
+        "a4e2fe981b29ee11b922ce1e",
+        "c9a7a5236bb4734865425fee"
+      ],
+      "reason": "Average score in Rotational Mechanics is only 12.5% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Rotational Mechanics \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceAssignment",
+      "chapter": "Rotational Mechanics",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [],
+      "reason": "Average score in Rotational Mechanics is only 12.5% \u2014 needs foundational work.",
+      "message": "Time to practice Rotational Mechanics with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 5,
+      "dost_type": "concept",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Theory explanation and conceptual understanding for a topic",
+        "params": {}
+      },
+      "question_ids": [
+        "876ec085d329a388ecf7aee0",
+        "3f485a27b79dab89e3f12f63",
+        "cdfc016b0a60077b943c9521",
+        "be60cb481fe9f65bae8524e9",
+        "b76aab96f03be771ac3c890b"
+      ],
+      "reason": "Average score in Physical Chemistry is only 20.0% \u2014 needs foundational work.",
+      "message": "Let's revisit the theory behind Physical Chemistry \u2014 a strong foundation will unlock everything else."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "chapter": "Physical Chemistry",
+      "subject": "General",
+      "parameters": {
+        "description": "Targeted practice set for specific topics, no timer",
+        "params": {
+          "difficulty": {
+            "type": "string",
+            "options": [
+              "easy",
+              "medium",
+              "hard"
+            ],
+            "default": "easy"
+          },
+          "type_split": {
+            "type": "object",
+            "default": {
+              "scq": 20,
+              "mcq": 10,
+              "integer": 5
+            }
+          }
+        }
+      },
+      "question_ids": [
+        "e06961751b70528cbcc60229"
+      ],
+      "reason": "Average score in Physical Chemistry is only 20.0% \u2014 needs foundational work.",
+      "message": "Time to practice Physical Chemistry with targeted questions \u2014 no timer, just focus."
+    },
+    {
+      "step": 7,
+      "dost_type": "pickingPower",
+      "chapter": "Coordinate Geometry",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "0c50b7a2c6f49ada33214516",
+        "97529ae140f13c12dc5eb9a6",
+        "b9951981f51909f242884888",
+        "9c12ba2e9651c69c3bf2e641",
+        "3b162e0f46af9a43461ec309"
+      ],
+      "reason": "Coordinate Geometry is at 64.2% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Coordinate Geometry \u2014 learn to rule out wrong options fast."
+    },
+    {
+      "step": 8,
+      "dost_type": "pickingPower",
+      "chapter": "Algebra",
+      "subject": "General",
+      "parameters": {
+        "description": "MCQ option elimination practice",
+        "params": {}
+      },
+      "question_ids": [
+        "0020d33eb7986102163324c5",
+        "1ce27d9c44a2f1c82cd44f6f",
+        "70b2f4fb5cff45671d08d766",
+        "bd49440204fd424ded5edecb",
+        "75d3bed355ca5ebaabdda76c"
+      ],
+      "reason": "Algebra is at 63.2% \u2014 just needs more targeted drilling to push above 70%.",
+      "message": "MCQ elimination practice for Algebra \u2014 learn to rule out wrong options fast."
+    }
+  ]
+}

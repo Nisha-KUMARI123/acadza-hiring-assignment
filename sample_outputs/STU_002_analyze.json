@@ -1,0 +1,55 @@
+{
+  "student_id": "STU_002",
+  "total_attempts": 7,
+  "completed_attempts": 7,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 32.4,
+  "trend": "declining",
+  "skip_rate_pct": 2.6,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Thermodynamics": 22.9,
+    "Laws of Motion": 22.9,
+    "Physical Chemistry": 20.0,
+    "Chemical Bonding": 20.0,
+    "Coordinate Geometry": 64.2,
+    "Algebra": 63.2,
+    "Organic Chemistry": 20.0,
+    "Heat Transfer": 12.5,
+    "Rotational Mechanics": 12.5,
+    "Calculus": 65.3
+  },
+  "subject_averages": {
+    "Physics": 19.4,
+    "Chemistry": 20.0,
+    "Mathematics": 64.2
+  },
+  "strengths": [],
+  "weaknesses": [
+    "Heat Transfer",
+    "Rotational Mechanics",
+    "Physical Chemistry",
+    "Chemical Bonding",
+    "Organic Chemistry",
+    "Thermodynamics",
+    "Laws of Motion"
+  ],
+  "needs_practice": [
+    "Coordinate Geometry",
+    "Algebra",
+    "Calculus"
+  ],
+  "patterns": [
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    25.0,
+    20.0,
+    63.2,
+    20.8,
+    20.0,
+    12.5,
+    65.3
+  ]
+}

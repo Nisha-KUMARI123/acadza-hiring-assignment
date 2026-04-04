@@ -1,0 +1,56 @@
+{
+  "student_id": "STU_007",
+  "total_attempts": 6,
+  "completed_attempts": 6,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 65.2,
+  "trend": "declining",
+  "skip_rate_pct": 22.2,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Kinematics": 54.2,
+    "Thermodynamics": 56.7,
+    "Probability": 70.0,
+    "Coordinate Geometry": 72.0,
+    "Chemical Bonding": 94.4,
+    "Physical Chemistry": 94.4,
+    "Heat Transfer": 51.7,
+    "Algebra": 68.0,
+    "Electrostatics": 48.3,
+    "Rotational Mechanics": 48.3
+  },
+  "subject_averages": {
+    "Physics": 52.2,
+    "Mathematics": 70.0,
+    "Chemistry": 94.4
+  },
+  "strengths": [
+    "Chemical Bonding",
+    "Physical Chemistry",
+    "Coordinate Geometry",
+    "Probability"
+  ],
+  "weaknesses": [
+    "Electrostatics",
+    "Rotational Mechanics",
+    "Heat Transfer",
+    "Kinematics"
+  ],
+  "needs_practice": [
+    "Thermodynamics",
+    "Algebra"
+  ],
+  "patterns": [
+    "High skip rate \u2014 22.2% of questions skipped on average",
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    56.7,
+    72.0,
+    94.4,
+    51.7,
+    68.0,
+    48.3
+  ]
+}

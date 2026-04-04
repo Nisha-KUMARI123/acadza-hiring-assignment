@@ -1,0 +1,62 @@
+{
+  "student_id": "STU_004",
+  "total_attempts": 7,
+  "completed_attempts": 7,
+  "aborted_attempts": 0,
+  "completion_rate": 100.0,
+  "overall_score": 57.0,
+  "trend": "improving",
+  "skip_rate_pct": 0.0,
+  "slow_sessions": 0,
+  "chapter_averages": {
+    "Electrostatics": 33.5,
+    "Heat Transfer": 57.0,
+    "Laws of Motion": 57.0,
+    "Organic Chemistry": 68.5,
+    "Physical Chemistry": 68.5,
+    "Chemical Bonding": 68.5,
+    "Probability": 50.0,
+    "Algebra": 38.0,
+    "Calculus": 50.0,
+    "Thermodynamics": 48.0,
+    "Kinematics": 48.0,
+    "Coordinate Geometry": 62.0,
+    "Optics": 95.0
+  },
+  "subject_averages": {
+    "Physics": 54.0,
+    "Chemistry": 68.5,
+    "Mathematics": 50.0
+  },
+  "strengths": [
+    "Optics"
+  ],
+  "weaknesses": [
+    "Electrostatics",
+    "Algebra",
+    "Thermodynamics",
+    "Kinematics",
+    "Probability",
+    "Calculus"
+  ],
+  "needs_practice": [
+    "Heat Transfer",
+    "Laws of Motion",
+    "Organic Chemistry",
+    "Physical Chemistry",
+    "Chemical Bonding",
+    "Coordinate Geometry"
+  ],
+  "patterns": [
+    "Excellent discipline \u2014 completes every session"
+  ],
+  "marks_timeline": [
+    19.0,
+    80.0,
+    38.0,
+    48.0,
+    57.0,
+    62.0,
+    95.0
+  ]
+}
